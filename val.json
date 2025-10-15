@@ -1,0 +1,68 @@
+[
+  {
+    "video": "videos/0014.mp4",
+    "audio": "audios/0014.wav",
+    "midi": "midis/0014.mid",
+    "rubric": [
+      3.56461270893192,
+      3.8833142328685164,
+      3.926184711324859,
+      3.6339422636786396,
+      3.765279403735596
+    ],
+    "metadata": {
+      "student_id": "S0014",
+      "student_level": "intermediate",
+      "piece": "Bach Invention No.8",
+      "instructors": [
+        "T01",
+        "T02",
+        "T03"
+      ]
+    }
+  },
+  {
+    "video": "videos/0015.mp4",
+    "audio": "audios/0015.wav",
+    "midi": "midis/0015.mid",
+    "rubric": [
+      3.685706663089915,
+      4.100035067906776,
+      4.481981124065446,
+      3.7876545485841695,
+      3.785133377226739
+    ],
+    "metadata": {
+      "student_id": "S0015",
+      "student_level": "intermediate",
+      "piece": "Czerny Op.299",
+      "instructors": [
+        "T01",
+        "T02",
+        "T03"
+      ]
+    }
+  },
+  {
+    "video": "videos/0016.mp4",
+    "audio": "audios/0016.wav",
+    "midi": "midis/0016.mid",
+    "rubric": [
+      4.340347779999801,
+      4.2113797421201395,
+      3.6772237021868186,
+      4.338331568245245,
+      4.384805028144124
+    ],
+    "metadata": {
+      "student_id": "S0016",
+      "student_level": "intermediate",
+      "piece": "Czerny Op.599",
+      "instructors": [
+        "T01",
+        "T02",
+        "T03"
+      ]
+    }
+  }
+]
